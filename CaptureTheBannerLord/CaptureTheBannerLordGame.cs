@@ -122,7 +122,7 @@ namespace Modbed
             // basicGameStarter.AddModel((GameModel) new MultiplayerAgentDecideKilledOrUnconsciousModel());
             // basicGameStarter.AddModel((GameModel) new MultiplayerAgentStatCalculateModel());
             // basicGameStarter.AddModel((GameModel) new MultiplayerAgentApplyDamageModel());
-             basicGameStarter.AddModel((GameModel) new MultiplayerBattleMoraleModel());
+            // basicGameStarter.AddModel((GameModel) new MultiplayerBattleMoraleModel());
         }
 
         protected override void OnRegisterTypes()
